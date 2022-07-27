@@ -1,0 +1,42 @@
+site_name: KMHFL Frontend Documentation
+nav:
+    # - Home: index.md
+    # - Facilities: facility.md
+    # - Community Units: community.md
+    # - GIS: gis.md
+    # - Reports: reports.md
+    - Introduction:
+        - 'Welcome to KMHFL': 'index.md'
+        - 'Dashboard': 'dashboard.md'
+    - Facilities:
+        - 'License': 'facility.md'
+        - 'Release Notes': 'facility.md'
+    # - Facilities: facility.md
+    #   img/
+    #         viewfac.png
+    - Community Units:
+        - 'Writing your docs': 'community.md'
+        - 'Styling your docs': 'community.md'
+    - GIS:
+        - 'License': 'gis.md'
+        - 'Release Notes': 'gis.md'
+    - Reports:
+        - 'License': 'reports.md'
+        - 'Release Notes': 'reports.md'
+    - kmhfl API:
+        - 'License': 'kmhfl.md'
+        - 'Release Notes': 'kmhfl.md'
+    - MoH Virtual Academy:
+        - 'License': 'academy.md'
+        - 'Release Notes': 'academy.md'
+
+    
+    # markdown_extensions:
+    # - toc:
+    #     permalink: "#"
+
+
+
+
+
+theme: readthedocs
